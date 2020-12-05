@@ -1,0 +1,14 @@
+*.pyc
+*.egg-info
+__pycache__
+.DS_Store
+/dist
+/build
+/pip-wheel-metadata
+
+.vscode
+.nova
+
+*.json
+*.tmLanguage
+*.xml
